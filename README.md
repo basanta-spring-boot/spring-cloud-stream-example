@@ -1,10 +1,10 @@
 # spring-cloud-stream-example
 
 ###### Download Apache-Kafka Binary Distribution Link 
-http://apachemirror.wuchna.com/kafka/2.3.1/kafka_2.11-2.3.1.tgz
+(http://apachemirror.wuchna.com/kafka/2.3.1/kafka_2.11-2.3.1.tgz)
 
 ###### Strat Zookeeper server
-zookeeper-server-start.bat D:\software\kafka_2.11-2.3.1\config\zookeeper.properties
+> zookeeper-server-start.bat D:\software\kafka_2.11-2.3.1\config\zookeeper.properties
 
 ###### Strat Kafka server 
 kafka-server-start.bat D:\software\kafka_2.11-2.3.1\config\server.properties
